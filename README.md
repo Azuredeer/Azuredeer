@@ -8,7 +8,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://drive.google.com/file/d/14T_giy8DyPo9jrru89Hd0Yq3Kj4Dlg1W/view?usp=sharing" /></a>
-  <a href="https://dev.mysql.com/"><img align="left" alt="SQL" title="SQL" width="21px" src="https://drive.google.com/file/d/1JI9NPid8720CVzam7BSBuFukX9rj8u0w/view?usp=sharing" /></a>
+  <a href="https://dev.mysql.com/"><img align="left" alt="SQL" title="SQL" width="21px" src="https://www.flaticon.com/free-icon/sql-server_2772128?term=sql&page=1&position=1&origin=tag&related_id=2772128" /></a>
   <br>
   <br>
   
