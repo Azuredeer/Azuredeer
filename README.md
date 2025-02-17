@@ -7,7 +7,7 @@ Saya seorang **Fresh Graduate** dari Universitas Syiah Kuala.<br>
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/yoanrifqicandra) ku ya.
 
 ### Tech Stack
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Azuredeer)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?Azuredeer=ffflabs)](https://github.com/Azuredeer)
   
 ### Github Statistic
 <p align="left">
