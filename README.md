@@ -7,10 +7,7 @@ Saya seorang **Fresh Graduate** dari Universitas Syiah Kuala.<br>
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/yoanrifqicandra) ku ya.
 
 ### Tech Stack
-  <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://drive.google.com/file/d/14T_giy8DyPo9jrru89Hd0Yq3Kj4Dlg1W/view?usp=sharing" /></a>
-  <a href="https://dev.mysql.com/"><img align="left" alt="SQL" title="SQL" width="21px" src="https://www.flaticon.com/free-icon/sql-server_2772128?term=sql&page=1&position=1&origin=tag&related_id=2772128" /></a>
-  <br>
-  <br>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?Azuredeer=ffflabs)]
   
 ### Github Statistic
 <p align="left">
